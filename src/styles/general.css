@@ -1,0 +1,110 @@
+.general-heading{
+    font-size: 28px;
+    margin-left: 300px;
+}
+
+.label-container{
+    margin-left: 300px;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 300px;
+}
+
+#general-name{
+    margin-left: 300px;
+}
+
+#general-email{
+    margin-left: 237px;
+}
+
+#general-no{
+    margin-left: 234px;
+}
+
+.form-sub{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+input:focus{
+    border: 2px solid black;
+}
+
+button{
+    background-color: #52525b;
+    font-size: 16px;
+    font-weight: 700;
+    height: 50px;
+    width: 100px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
+button:hover{
+    transition-duration: 0.15s;
+    transition-property: background-color;
+    transition-timing-function: ease-in;
+    background-color: #18181b;
+    cursor: pointer;
+    box-shadow: 0 4px 8px rgba(256, 256, 256, 0.2);;
+}
+
+.general-comp-cont{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.general-comp-heading{
+    font-size: 20px;
+}
+
+.general-comp-button{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.edu-element{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 300px;
+}
+
+.edu-input{
+    margin-top: 15px;
+    height: 20px;
+    border-radius: 5px;
+}
+
+.edu-edit{
+    margin-right: 50px;
+}
+
+.edu-remove{
+    margin-right: 150px;
+}
+
+.edu-heading{
+    font-size: 28px;
+    margin-left: 300px;
+    margin-top: 20px;
+}
+
+.edu-cont{
+    margin-top: 20px;
+}
+
+.edu-ele{
+    margin-top: 10px;
+}
+
+.edu-button{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
